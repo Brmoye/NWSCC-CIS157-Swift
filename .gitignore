@@ -1,0 +1,575 @@
+
+._.DS_Store
+._01_PlaygroundBasics.playground
+._02_Naming.playground
+._03_Strings.playground
+._04_HelloWorld.playground
+._06_Functions.playground
+._08_Variables.playground
+._09_Types.playground
+._10_ParametersAndResults.playground
+._11_MakingDecisions.playground
+._12_InstancesMethodsProperties.playground
+._13_QuestionAnswerer.playground
+._14_ArraysAndLoops.playground
+._15_Structures.playground
+._19_EnumsAndSwitch.playground
+.DS_Store
+01_PlaygroundBasics.playground.zip
+01_PlaygroundBasics.playground/._Pages
+01_PlaygroundBasics.playground/._playground.xcworkspace
+01_PlaygroundBasics.playground/Pages/._Calculations.xcplaygroundpage
+01_PlaygroundBasics.playground/Pages/._Comments.xcplaygroundpage
+01_PlaygroundBasics.playground/Pages/._Errors.xcplaygroundpage
+01_PlaygroundBasics.playground/Pages/._Introduction.xcplaygroundpage
+01_PlaygroundBasics.playground/Pages/._What Is a Playground.xcplaygroundpage
+01_PlaygroundBasics.playground/Pages/._When Things Go Wrong.xcplaygroundpage
+01_PlaygroundBasics.playground/Pages/._Wrapup.xcplaygroundpage
+01_PlaygroundBasics.playground/Pages/Introduction.xcplaygroundpage/._Contents.swift
+01_PlaygroundBasics.playground/Pages/Introduction.xcplaygroundpage/._Resources
+01_PlaygroundBasics.playground/Pages/Introduction.xcplaygroundpage/Resources/._swiftloading.gif
+01_PlaygroundBasics.playground/Pages/When Things Go Wrong.xcplaygroundpage/._Contents.swift
+01_PlaygroundBasics.playground/Pages/Wrapup.xcplaygroundpage/._Contents.swift
+01_PlaygroundBasics.playground/playground.xcworkspace/._contents.xcworkspacedata
+01_PlaygroundBasics.playground/playground.xcworkspace/._xcuserdata
+01_PlaygroundBasics.playground/playground.xcworkspace/xcuserdata/._czeluff.xcuserdatad
+01_PlaygroundBasics.playground/playground.xcworkspace/xcuserdata/czeluff.xcuserdatad/._UserInterfaceState.xcuserstate
+02_Naming.playground/._Contents.swift
+02_Naming.playground/._Pages
+02_Naming.playground/._playground.xcworkspace
+02_Naming.playground/._Resources
+02_Naming.playground/Pages/._09-ExerciseShow.xcplaygroundpage
+02_Naming.playground/Pages/._10-ExerciseLottery.xcplaygroundpage
+02_Naming.playground/Pages/._11-ExerciseiPhone.xcplaygroundpage
+02_Naming.playground/Pages/._12-ExerciseMorning.xcplaygroundpage
+02_Naming.playground/Pages/._13-ExerciseNaming.xcplaygroundpage
+02_Naming.playground/Pages/._Autocompletion.xcplaygroundpage
+02_Naming.playground/Pages/._Good Names.xcplaygroundpage
+02_Naming.playground/Pages/._Identifiers.xcplaygroundpage
+02_Naming.playground/Pages/._Introduction.xcplaygroundpage
+02_Naming.playground/Pages/._Naming Things.xcplaygroundpage
+02_Naming.playground/Pages/._Pet Problem Recap.xcplaygroundpage
+02_Naming.playground/Pages/._Pet Problem.xcplaygroundpage
+02_Naming.playground/Pages/._Programmer Talk.xcplaygroundpage
+02_Naming.playground/Pages/._Wrap Up.xcplaygroundpage
+02_Naming.playground/Pages/Autocompletion.xcplaygroundpage/._Contents.swift
+02_Naming.playground/Pages/Good Names.xcplaygroundpage/._Contents.swift
+02_Naming.playground/Pages/Introduction.xcplaygroundpage/._Contents.swift
+02_Naming.playground/Pages/Pet Problem Recap.xcplaygroundpage/._Contents.swift
+02_Naming.playground/Pages/Programmer Talk.xcplaygroundpage/._Contents.swift
+02_Naming.playground/Pages/Wrap Up.xcplaygroundpage/._Contents.swift
+02_Naming.playground/playground.xcworkspace/._contents.xcworkspacedata
+02_Naming.playground/playground.xcworkspace/._xcuserdata
+02_Naming.playground/playground.xcworkspace/xcuserdata/._czeluff.xcuserdatad
+02_Naming.playground/playground.xcworkspace/xcuserdata/czeluff.xcuserdatad/._UserInterfaceState.xcuserstate
+02_Naming.playground/Resources/._autocomplete.png
+03_Strings.playground/._Contents.swift
+03_Strings.playground/._Pages
+03_Strings.playground/._playground.xcworkspace
+03_Strings.playground/Pages/._Characters.xcplaygroundpage
+03_Strings.playground/Pages/._Combining Strings.xcplaygroundpage
+03_Strings.playground/Pages/._Defining Strings.xcplaygroundpage
+03_Strings.playground/Pages/._Escape Sequences.xcplaygroundpage
+03_Strings.playground/Pages/._Exercise-A Restaurant.xcplaygroundpage
+03_Strings.playground/Pages/._Exercise-Displaying Values.xcplaygroundpage
+03_Strings.playground/Pages/._Exercise-Go\! Fight\! Win\!.xcplaygroundpage
+03_Strings.playground/Pages/._Exercise-Making a List.xcplaygroundpage
+03_Strings.playground/Pages/._Fill In The Blanks.xcplaygroundpage
+03_Strings.playground/Pages/._Introduction.xcplaygroundpage
+03_Strings.playground/Pages/._More Than Strings.xcplaygroundpage
+03_Strings.playground/Pages/._String Interpolation.xcplaygroundpage
+03_Strings.playground/Pages/._The Great Escape.xcplaygroundpage
+03_Strings.playground/Pages/._Unicode.xcplaygroundpage
+03_Strings.playground/Pages/._Viewing Results.xcplaygroundpage
+03_Strings.playground/Pages/._WrapUp.xcplaygroundpage
+03_Strings.playground/Pages/Characters.xcplaygroundpage/._Contents.swift
+03_Strings.playground/Pages/Fill In The Blanks.xcplaygroundpage/._Contents.swift
+03_Strings.playground/Pages/Introduction.xcplaygroundpage/._Contents.swift
+03_Strings.playground/Pages/Introduction.xcplaygroundpage/._Resources
+03_Strings.playground/Pages/Introduction.xcplaygroundpage/Resources/._StringOfBeads.png
+03_Strings.playground/Pages/Introduction.xcplaygroundpage/Resources/._StringOfCharacters.png
+03_Strings.playground/Pages/Unicode.xcplaygroundpage/._Contents.swift
+03_Strings.playground/Pages/Viewing Results.xcplaygroundpage/._Resources
+03_Strings.playground/Pages/Viewing Results.xcplaygroundpage/Resources/._SidebarControls.png
+03_Strings.playground/Pages/WrapUp.xcplaygroundpage/._Contents.swift
+03_Strings.playground/playground.xcworkspace/._contents.xcworkspacedata
+03_Strings.playground/playground.xcworkspace/._xcuserdata
+03_Strings.playground/playground.xcworkspace/xcuserdata/._czeluff.xcuserdatad
+03_Strings.playground/playground.xcworkspace/xcuserdata/czeluff.xcuserdatad/._UserInterfaceState.xcuserstate
+04_HelloWorld.playground/._Contents.swift
+04_HelloWorld.playground/._Pages
+04_HelloWorld.playground/._playground.xcworkspace
+04_HelloWorld.playground/._Resources
+04_HelloWorld.playground/Pages/._Changing Your Colors.xcplaygroundpage
+04_HelloWorld.playground/Pages/._Exercise-Console App.xcplaygroundpage
+04_HelloWorld.playground/Pages/._Exercise-Debugging.xcplaygroundpage
+04_HelloWorld.playground/Pages/._Hello.xcplaygroundpage
+04_HelloWorld.playground/Pages/._Hide the Results Sidebar.xcplaygroundpage
+04_HelloWorld.playground/Pages/._Introduction.xcplaygroundpage
+04_HelloWorld.playground/Pages/._Logging.xcplaygroundpage
+04_HelloWorld.playground/Pages/._Messages from Programmers.xcplaygroundpage
+04_HelloWorld.playground/Pages/._The Console.xcplaygroundpage
+04_HelloWorld.playground/Pages/._What Can You Print.xcplaygroundpage
+04_HelloWorld.playground/Pages/._Wrapup.xcplaygroundpage
+04_HelloWorld.playground/Pages/Changing Your Colors.xcplaygroundpage/._Contents.swift
+04_HelloWorld.playground/Pages/Changing Your Colors.xcplaygroundpage/._Resources
+04_HelloWorld.playground/Pages/Changing Your Colors.xcplaygroundpage/Resources/._xcode-pref-dusk-color.png
+04_HelloWorld.playground/Pages/Changing Your Colors.xcplaygroundpage/Resources/._xcode-pref-fonts-and-colors.png
+04_HelloWorld.playground/Pages/Exercise-Console App.xcplaygroundpage/._Contents.swift
+04_HelloWorld.playground/Pages/Introduction.xcplaygroundpage/._Contents.swift
+04_HelloWorld.playground/Pages/Logging.xcplaygroundpage/._Sources
+04_HelloWorld.playground/Pages/Logging.xcplaygroundpage/Sources/._TeamScore.swift
+04_HelloWorld.playground/Pages/Messages from Programmers.xcplaygroundpage/._Sources
+04_HelloWorld.playground/Pages/Messages from Programmers.xcplaygroundpage/Sources/._Swoop.swift
+04_HelloWorld.playground/Pages/The Console.xcplaygroundpage/._Contents.swift
+04_HelloWorld.playground/Pages/The Console.xcplaygroundpage/._Resources
+04_HelloWorld.playground/Pages/The Console.xcplaygroundpage/Resources/._console_button.png
+04_HelloWorld.playground/Pages/The Console.xcplaygroundpage/Resources/._show-hide-console.mov
+04_HelloWorld.playground/Pages/The Console.xcplaygroundpage/Resources/._xcode-show-debug-area.png
+04_HelloWorld.playground/Pages/Wrapup.xcplaygroundpage/._Contents.swift
+04_HelloWorld.playground/playground.xcworkspace/._contents.xcworkspacedata
+04_HelloWorld.playground/playground.xcworkspace/._xcuserdata
+04_HelloWorld.playground/playground.xcworkspace/xcuserdata/._czeluff.xcuserdatad
+04_HelloWorld.playground/playground.xcworkspace/xcuserdata/czeluff.xcuserdatad/._UserInterfaceState.xcuserstate
+04_HelloWorld.playground/Resources/._NowTimeyCode.png
+04_HelloWorld.playground/Resources/._OldTimeyCode.png
+04_HelloWorld.playground/Resources/._resize-cursor.png
+04_HelloWorld.playground/Resources/._xcode-preferences.png
+04_HelloWorld.playground/Resources/._xcode-results-hidden.png
+04_HelloWorld.playground/Resources/._xcode-results-shown.png
+06_Functions.playground/._Pages
+06_Functions.playground/._playground.xcworkspace
+06_Functions.playground/Pages/._A Single Piece of Work.xcplaygroundpage
+06_Functions.playground/Pages/._Breaking it Down.xcplaygroundpage
+06_Functions.playground/Pages/._Calling a Function.xcplaygroundpage
+06_Functions.playground/Pages/._Change Something Once.xcplaygroundpage
+06_Functions.playground/Pages/._Functions Within Functions.xcplaygroundpage
+06_Functions.playground/Pages/._Hiding Complexity.xcplaygroundpage
+06_Functions.playground/Pages/._Infinite Loops.xcplaygroundpage
+06_Functions.playground/Pages/._Introduction.xcplaygroundpage
+06_Functions.playground/Pages/._Meme Exercise.xcplaygroundpage
+06_Functions.playground/Pages/._Personal Meme.xcplaygroundpage
+06_Functions.playground/Pages/._Repeating Yourself.xcplaygroundpage
+06_Functions.playground/Pages/._Wrapup.xcplaygroundpage
+06_Functions.playground/Pages/Calling a Function.xcplaygroundpage/._Contents.swift
+06_Functions.playground/Pages/Change Something Once.xcplaygroundpage/._Sources
+06_Functions.playground/Pages/Change Something Once.xcplaygroundpage/Sources/._RowRowChangeSomething.swift
+06_Functions.playground/Pages/Hiding Complexity.xcplaygroundpage/._Sources
+06_Functions.playground/Pages/Hiding Complexity.xcplaygroundpage/Sources/._RowRow.swift
+06_Functions.playground/Pages/Introduction.xcplaygroundpage/._Contents.swift
+06_Functions.playground/Pages/Repeating Yourself.xcplaygroundpage/._Contents.swift
+06_Functions.playground/Pages/Wrapup.xcplaygroundpage/._Contents.swift
+06_Functions.playground/playground.xcworkspace/._contents.xcworkspacedata
+06_Functions.playground/playground.xcworkspace/._xcuserdata
+06_Functions.playground/playground.xcworkspace/xcuserdata/._czeluff.xcuserdatad
+06_Functions.playground/playground.xcworkspace/xcuserdata/czeluff.xcuserdatad/._UserInterfaceState.xcuserstate
+08_Variables.playground/._Contents.swift
+08_Variables.playground/._Pages
+08_Variables.playground/._playground.xcworkspace
+08_Variables.playground/._Resources
+08_Variables.playground/Pages/._A Shortcut.xcplaygroundpage
+08_Variables.playground/Pages/._Confusing Changes.xcplaygroundpage
+08_Variables.playground/Pages/._Constant and Variable.xcplaygroundpage
+08_Variables.playground/Pages/._Declaring Variables.xcplaygroundpage
+08_Variables.playground/Pages/._Exercise-501.xcplaygroundpage
+08_Variables.playground/Pages/._Exercise-Shopping List.xcplaygroundpage
+08_Variables.playground/Pages/._Introduction.xcplaygroundpage
+08_Variables.playground/Pages/._Safer Code in a Varying World.xcplaygroundpage
+08_Variables.playground/Pages/._Safer Code in an Unexpected World.xcplaygroundpage
+08_Variables.playground/Pages/._Trying to Change a Constant.xcplaygroundpage
+08_Variables.playground/Pages/._Working With Variables.xcplaygroundpage
+08_Variables.playground/Pages/._Wrapup.xcplaygroundpage
+08_Variables.playground/Pages/._You Make the Choice.xcplaygroundpage
+08_Variables.playground/Pages/Confusing Changes.xcplaygroundpage/._Contents.swift
+08_Variables.playground/Pages/Constant and Variable.xcplaygroundpage/._Contents.swift
+08_Variables.playground/Pages/Introduction.xcplaygroundpage/._Contents.swift
+08_Variables.playground/Pages/Safer Code in a Varying World.xcplaygroundpage/._Sources
+08_Variables.playground/Pages/Safer Code in a Varying World.xcplaygroundpage/Sources/._CoffeeSupport.swift
+08_Variables.playground/Pages/Working With Variables.xcplaygroundpage/._Contents.swift
+08_Variables.playground/Pages/Wrapup.xcplaygroundpage/._Contents.swift
+08_Variables.playground/Pages/You Make the Choice.xcplaygroundpage/._Contents.swift
+08_Variables.playground/playground.xcworkspace/._contents.xcworkspacedata
+08_Variables.playground/playground.xcworkspace/._xcuserdata
+08_Variables.playground/playground.xcworkspace/xcuserdata/._czeluff.xcuserdatad
+08_Variables.playground/playground.xcworkspace/xcuserdata/czeluff.xcuserdatad/._UserInterfaceState.xcuserstate
+08_Variables.playground/Resources/._FixItError.png
+08_Variables.playground/Resources/._FixItSuggestion.png
+08_Variables.playground/Resources/._NormalError.png
+09_Types.playground/._Pages
+09_Types.playground/._playground.xcworkspace
+09_Types.playground/Pages/._Beyond The Standard Library.xcplaygroundpage
+09_Types.playground/Pages/._Exercise-Circles.xcplaygroundpage
+09_Types.playground/Pages/._Favorite Shirt.xcplaygroundpage
+09_Types.playground/Pages/._Importing Frameworks.xcplaygroundpage
+09_Types.playground/Pages/._Introduction.xcplaygroundpage
+09_Types.playground/Pages/._Type Annotation.xcplaygroundpage
+09_Types.playground/Pages/._Type Inference From Assignment.xcplaygroundpage
+09_Types.playground/Pages/._Type Safety.xcplaygroundpage
+09_Types.playground/Pages/._Types and Literals.xcplaygroundpage
+09_Types.playground/Pages/._Types and Variables.xcplaygroundpage
+09_Types.playground/Pages/._Types.xcplaygroundpage
+09_Types.playground/Pages/._Where Do Types Come From.xcplaygroundpage
+09_Types.playground/Pages/._Wrapup.xcplaygroundpage
+09_Types.playground/Pages/Beyond The Standard Library.xcplaygroundpage/._Contents.swift
+09_Types.playground/Pages/Favorite Shirt.xcplaygroundpage/._Contents.swift
+09_Types.playground/Pages/Introduction.xcplaygroundpage/._Contents.swift
+09_Types.playground/Pages/Types.xcplaygroundpage/._Contents.swift
+09_Types.playground/Pages/Where Do Types Come From.xcplaygroundpage/._Contents.swift
+09_Types.playground/Pages/Wrapup.xcplaygroundpage/._Contents.swift
+09_Types.playground/playground.xcworkspace/._contents.xcworkspacedata
+09_Types.playground/playground.xcworkspace/._xcuserdata
+09_Types.playground/playground.xcworkspace/xcuserdata/._czeluff.xcuserdatad
+09_Types.playground/playground.xcworkspace/xcuserdata/czeluff.xcuserdatad/._UserInterfaceState.xcuserstate
+10_ParametersAndResults.playground/._Pages
+10_ParametersAndResults.playground/._playground.xcworkspace
+10_ParametersAndResults.playground/Pages/._Building Blocks.xcplaygroundpage
+10_ParametersAndResults.playground/Pages/._Exercise-Argument Label.xcplaygroundpage
+10_ParametersAndResults.playground/Pages/._Exercise-No Argument Label.xcplaygroundpage
+10_ParametersAndResults.playground/Pages/._Exercise-Using Return Values.xcplaygroundpage
+10_ParametersAndResults.playground/Pages/._Exercise-Verbing Your Noun.xcplaygroundpage
+10_ParametersAndResults.playground/Pages/._From Specific To General.xcplaygroundpage
+10_ParametersAndResults.playground/Pages/._Getting Values Back.xcplaygroundpage
+10_ParametersAndResults.playground/Pages/._Giving Values Back.xcplaygroundpage
+10_ParametersAndResults.playground/Pages/._Introduction.xcplaygroundpage
+10_ParametersAndResults.playground/Pages/._Kinds of Function.xcplaygroundpage
+10_ParametersAndResults.playground/Pages/._Naming.xcplaygroundpage
+10_ParametersAndResults.playground/Pages/._Other Favorite Things.xcplaygroundpage
+10_ParametersAndResults.playground/Pages/._Parameter Names and Argument Labels.xcplaygroundpage
+10_ParametersAndResults.playground/Pages/._Passing More Values.xcplaygroundpage
+10_ParametersAndResults.playground/Pages/._The Argument Without a Name.xcplaygroundpage
+10_ParametersAndResults.playground/Pages/._Wrapup.xcplaygroundpage
+10_ParametersAndResults.playground/Pages/._Your Favorite Food.xcplaygroundpage
+10_ParametersAndResults.playground/Pages/Introduction.xcplaygroundpage/._Contents.swift
+10_ParametersAndResults.playground/Pages/Kinds of Function.xcplaygroundpage/._Contents.swift
+10_ParametersAndResults.playground/Pages/Naming.xcplaygroundpage/._Contents.swift
+10_ParametersAndResults.playground/Pages/Wrapup.xcplaygroundpage/._Contents.swift
+10_ParametersAndResults.playground/playground.xcworkspace/._contents.xcworkspacedata
+10_ParametersAndResults.playground/playground.xcworkspace/._xcuserdata
+10_ParametersAndResults.playground/playground.xcworkspace/xcuserdata/._czeluff.xcuserdatad
+10_ParametersAndResults.playground/playground.xcworkspace/xcuserdata/czeluff.xcuserdatad/._UserInterfaceState.xcuserstate
+11_MakingDecisions.playground/._Pages
+11_MakingDecisions.playground/._playground.xcworkspace
+11_MakingDecisions.playground/Pages/._Conditionals.xcplaygroundpage
+11_MakingDecisions.playground/Pages/._Else If.xcplaygroundpage
+11_MakingDecisions.playground/Pages/._Else.xcplaygroundpage
+11_MakingDecisions.playground/Pages/._Equality.xcplaygroundpage
+11_MakingDecisions.playground/Pages/._Exercise-Else practice.xcplaygroundpage
+11_MakingDecisions.playground/Pages/._Exercise-If Statement Practice.xcplaygroundpage
+11_MakingDecisions.playground/Pages/._Exercise-Leap years.xcplaygroundpage
+11_MakingDecisions.playground/Pages/._Functions and Decisions.xcplaygroundpage
+11_MakingDecisions.playground/Pages/._Introduction.xcplaygroundpage
+11_MakingDecisions.playground/Pages/._More Comparisons.xcplaygroundpage
+11_MakingDecisions.playground/Pages/._Remainder Operator.xcplaygroundpage
+11_MakingDecisions.playground/Pages/._True and False.xcplaygroundpage
+11_MakingDecisions.playground/Pages/._Wrapup.xcplaygroundpage
+11_MakingDecisions.playground/Pages/Conditionals.xcplaygroundpage/._Contents.swift
+11_MakingDecisions.playground/Pages/Else If.xcplaygroundpage/._Contents.swift
+11_MakingDecisions.playground/Pages/Else.xcplaygroundpage/._Contents.swift
+11_MakingDecisions.playground/Pages/Equality.xcplaygroundpage/._Contents.swift
+11_MakingDecisions.playground/Pages/Exercise-Leap years.xcplaygroundpage/._Sources
+11_MakingDecisions.playground/Pages/Exercise-Leap years.xcplaygroundpage/Sources/._New File.swift
+11_MakingDecisions.playground/Pages/Functions and Decisions.xcplaygroundpage/._Contents.swift
+11_MakingDecisions.playground/Pages/Introduction.xcplaygroundpage/._Contents.swift
+11_MakingDecisions.playground/Pages/More Comparisons.xcplaygroundpage/._Contents.swift
+11_MakingDecisions.playground/Pages/True and False.xcplaygroundpage/._Contents.swift
+11_MakingDecisions.playground/Pages/Wrapup.xcplaygroundpage/._Contents.swift
+11_MakingDecisions.playground/playground.xcworkspace/._contents.xcworkspacedata
+11_MakingDecisions.playground/playground.xcworkspace/._xcuserdata
+11_MakingDecisions.playground/playground.xcworkspace/xcuserdata/._czeluff.xcuserdatad
+11_MakingDecisions.playground/playground.xcworkspace/xcuserdata/czeluff.xcuserdatad/._UserInterfaceState.xcuserstate
+12_InstancesMethodsProperties.playground/._Pages
+12_InstancesMethodsProperties.playground/._playground.xcworkspace
+12_InstancesMethodsProperties.playground/._Resources
+12_InstancesMethodsProperties.playground/Pages/._APIs, revisited.xcplaygroundpage
+12_InstancesMethodsProperties.playground/Pages/._Classes and Structs.xcplaygroundpage
+12_InstancesMethodsProperties.playground/Pages/._Creating an Instance.xcplaygroundpage
+12_InstancesMethodsProperties.playground/Pages/._Exercise-Freight Elevator.xcplaygroundpage
+12_InstancesMethodsProperties.playground/Pages/._Exercise-Identity.xcplaygroundpage
+12_InstancesMethodsProperties.playground/Pages/._Exercise-The Return of BoogieBot.xcplaygroundpage
+12_InstancesMethodsProperties.playground/Pages/._Instances.xcplaygroundpage
+12_InstancesMethodsProperties.playground/Pages/._Introduction.xcplaygroundpage
+12_InstancesMethodsProperties.playground/Pages/._Methods and Type Safety.xcplaygroundpage
+12_InstancesMethodsProperties.playground/Pages/._Methods.xcplaygroundpage
+12_InstancesMethodsProperties.playground/Pages/._Properties Versus Methods.xcplaygroundpage
+12_InstancesMethodsProperties.playground/Pages/._Properties.xcplaygroundpage
+12_InstancesMethodsProperties.playground/Pages/._Quick Help.xcplaygroundpage
+12_InstancesMethodsProperties.playground/Pages/._Read the Fine Manual.xcplaygroundpage
+12_InstancesMethodsProperties.playground/Pages/._What Does This Do.xcplaygroundpage
+12_InstancesMethodsProperties.playground/Pages/._Why Methods and Properties.xcplaygroundpage
+12_InstancesMethodsProperties.playground/Pages/._Wrapup.xcplaygroundpage
+12_InstancesMethodsProperties.playground/Pages/APIs, revisited.xcplaygroundpage/._Contents.swift
+12_InstancesMethodsProperties.playground/Pages/Classes and Structs.xcplaygroundpage/._Contents.swift
+12_InstancesMethodsProperties.playground/Pages/Classes and Structs.xcplaygroundpage/._Resources
+12_InstancesMethodsProperties.playground/Pages/Classes and Structs.xcplaygroundpage/Resources/._StringQuickHelp-Raw.png
+12_InstancesMethodsProperties.playground/Pages/Classes and Structs.xcplaygroundpage/Resources/._StringQuickHelp.png
+12_InstancesMethodsProperties.playground/Pages/Classes and Structs.xcplaygroundpage/Resources/._UIColorQuickHelp-Raw.png
+12_InstancesMethodsProperties.playground/Pages/Classes and Structs.xcplaygroundpage/Resources/._UIColorQuickHelp.png
+12_InstancesMethodsProperties.playground/Pages/Creating an Instance.xcplaygroundpage/._Contents.swift
+12_InstancesMethodsProperties.playground/Pages/Exercise-Freight Elevator.xcplaygroundpage/._Contents.swift
+12_InstancesMethodsProperties.playground/Pages/Exercise-Freight Elevator.xcplaygroundpage/._Sources
+12_InstancesMethodsProperties.playground/Pages/Exercise-Freight Elevator.xcplaygroundpage/Sources/._FreightElevator.swift
+12_InstancesMethodsProperties.playground/Pages/Exercise-The Return of BoogieBot.xcplaygroundpage/._Contents.swift
+12_InstancesMethodsProperties.playground/Pages/Exercise-The Return of BoogieBot.xcplaygroundpage/._Sources
+12_InstancesMethodsProperties.playground/Pages/Exercise-The Return of BoogieBot.xcplaygroundpage/._timeline.xctimeline
+12_InstancesMethodsProperties.playground/Pages/Exercise-The Return of BoogieBot.xcplaygroundpage/Sources/._BoogieBot.swift
+12_InstancesMethodsProperties.playground/Pages/Exercise-The Return of BoogieBot.xcplaygroundpage/Sources/._BoogieBotLayer.swift
+12_InstancesMethodsProperties.playground/Pages/Exercise-The Return of BoogieBot.xcplaygroundpage/Sources/._BoogieStage.swift
+12_InstancesMethodsProperties.playground/Pages/Exercise-The Return of BoogieBot.xcplaygroundpage/Sources/._Recorder.swift
+12_InstancesMethodsProperties.playground/Pages/Instances.xcplaygroundpage/._Contents.swift
+12_InstancesMethodsProperties.playground/Pages/Introduction.xcplaygroundpage/._Contents.swift
+12_InstancesMethodsProperties.playground/Pages/Methods and Type Safety.xcplaygroundpage/._Contents.swift
+12_InstancesMethodsProperties.playground/Pages/Methods.xcplaygroundpage/._Contents.swift
+12_InstancesMethodsProperties.playground/Pages/Properties Versus Methods.xcplaygroundpage/._Contents.swift
+12_InstancesMethodsProperties.playground/Pages/Properties.xcplaygroundpage/._Contents.swift
+12_InstancesMethodsProperties.playground/Pages/Quick Help.xcplaygroundpage/._Contents.swift
+12_InstancesMethodsProperties.playground/Pages/Read the Fine Manual.xcplaygroundpage/._Contents.swift
+12_InstancesMethodsProperties.playground/Pages/What Does This Do.xcplaygroundpage/._Contents.swift
+12_InstancesMethodsProperties.playground/Pages/Why Methods and Properties.xcplaygroundpage/._Contents.swift
+12_InstancesMethodsProperties.playground/Pages/Wrapup.xcplaygroundpage/._Contents.swift
+12_InstancesMethodsProperties.playground/playground.xcworkspace/._contents.xcworkspacedata
+12_InstancesMethodsProperties.playground/playground.xcworkspace/._xcuserdata
+12_InstancesMethodsProperties.playground/playground.xcworkspace/xcuserdata/._czeluff.xcuserdatad
+12_InstancesMethodsProperties.playground/playground.xcworkspace/xcuserdata/czeluff.xcuserdatad/._UserInterfaceState.xcuserstate
+12_InstancesMethodsProperties.playground/Resources/._Autocomplete.png
+12_InstancesMethodsProperties.playground/Resources/._LinkToDocs.png
+12_InstancesMethodsProperties.playground/Resources/._OptionClickMethod.png
+12_InstancesMethodsProperties.playground/Resources/._QuickHelp.png
+12_InstancesMethodsProperties.playground/Resources/._StringSearch.png
+13_QuestionAnswerer.playground/._contents.xcplayground
+13_QuestionAnswerer.playground/._Pages
+13_QuestionAnswerer.playground/._playground.xcworkspace
+13_QuestionAnswerer.playground/._Resources
+13_QuestionAnswerer.playground/Pages/._Dealing with Cases.xcplaygroundpage
+13_QuestionAnswerer.playground/Pages/._Default Answers.xcplaygroundpage
+13_QuestionAnswerer.playground/Pages/._First Words.xcplaygroundpage
+13_QuestionAnswerer.playground/Pages/._Introduction.xcplaygroundpage
+13_QuestionAnswerer.playground/Pages/._Putting It All together.xcplaygroundpage
+13_QuestionAnswerer.playground/Pages/._Special Questions.xcplaygroundpage
+13_QuestionAnswerer.playground/Pages/._Wrap up.xcplaygroundpage
+13_QuestionAnswerer.playground/Pages/Dealing with Cases.xcplaygroundpage/._Contents.swift
+13_QuestionAnswerer.playground/Pages/Default Answers.xcplaygroundpage/._Contents.swift
+13_QuestionAnswerer.playground/Pages/First Words.xcplaygroundpage/._Contents.swift
+13_QuestionAnswerer.playground/Pages/Introduction.xcplaygroundpage/._Contents.swift
+13_QuestionAnswerer.playground/Pages/Putting It All together.xcplaygroundpage/._Contents.swift
+13_QuestionAnswerer.playground/Pages/Special Questions.xcplaygroundpage/._Contents.swift
+13_QuestionAnswerer.playground/Pages/Wrap up.xcplaygroundpage/._Contents.swift
+13_QuestionAnswerer.playground/playground.xcworkspace/._contents.xcworkspacedata
+13_QuestionAnswerer.playground/playground.xcworkspace/._xcuserdata
+13_QuestionAnswerer.playground/playground.xcworkspace/xcuserdata/._czeluff.xcuserdatad
+13_QuestionAnswerer.playground/playground.xcworkspace/xcuserdata/czeluff.xcuserdatad/._UserInterfaceState.xcuserstate
+13_QuestionAnswerer.playground/Resources/._copy-paste-example.png
+13_QuestionBot/QuestionBot/._QuestionBot.xcodeproj
+13_QuestionBot/QuestionBot/QuestionBot.xcodeproj/._project.pbxproj
+13_QuestionBot/QuestionBot/QuestionBot.xcodeproj/._project.xcworkspace
+13_QuestionBot/QuestionBot/QuestionBot.xcodeproj/._xcuserdata
+13_QuestionBot/QuestionBot/QuestionBot.xcodeproj/project.xcworkspace/._contents.xcworkspacedata
+13_QuestionBot/QuestionBot/QuestionBot.xcodeproj/project.xcworkspace/._xcuserdata
+13_QuestionBot/QuestionBot/QuestionBot.xcodeproj/project.xcworkspace/xcuserdata/._czeluff.xcuserdatad
+13_QuestionBot/QuestionBot/QuestionBot.xcodeproj/project.xcworkspace/xcuserdata/czeluff.xcuserdatad/._UserInterfaceState.xcuserstate
+13_QuestionBot/QuestionBot/QuestionBot.xcodeproj/xcuserdata/._czeluff.xcuserdatad
+13_QuestionBot/QuestionBot/QuestionBot.xcodeproj/xcuserdata/czeluff.xcuserdatad/._xcschemes
+13_QuestionBot/QuestionBot/QuestionBot.xcodeproj/xcuserdata/czeluff.xcuserdatad/xcschemes/._QuestionBot.xcscheme
+13_QuestionBot/QuestionBot/QuestionBot.xcodeproj/xcuserdata/czeluff.xcuserdatad/xcschemes/._xcschememanagement.plist
+13_QuestionBot/QuestionBot/QuestionBot/._AppDelegate.swift
+13_QuestionBot/QuestionBot/QuestionBot/._Info.plist
+13_QuestionBot/QuestionBot/QuestionBot/._QuestionAnswerer.swift
+13_QuestionBot/QuestionBot/QuestionBot/._ViewController.swift
+13_QuestionBot/QuestionBot/QuestionBot/Assets.xcassets/._Contents.json
+13_QuestionBot/QuestionBot/QuestionBot/Assets.xcassets/AppIcon.appiconset/._Contents.json
+13_QuestionBot/QuestionBot/QuestionBot/Assets.xcassets/disabled.imageset/._Contents.json
+13_QuestionBot/QuestionBot/QuestionBot/Assets.xcassets/disabled.imageset/._unselected.png
+13_QuestionBot/QuestionBot/QuestionBot/Assets.xcassets/disabled.imageset/._unselected@2x.png
+13_QuestionBot/QuestionBot/QuestionBot/Assets.xcassets/disabled.imageset/._unselected@3x.png
+13_QuestionBot/QuestionBot/QuestionBot/Assets.xcassets/enabled.imageset/._Contents.json
+13_QuestionBot/QuestionBot/QuestionBot/Assets.xcassets/enabled.imageset/._selected.png
+13_QuestionBot/QuestionBot/QuestionBot/Assets.xcassets/enabled.imageset/._selected@2x.png
+13_QuestionBot/QuestionBot/QuestionBot/Assets.xcassets/enabled.imageset/._selected@3x.png
+13_QuestionBot/QuestionBot/QuestionBot/Base.lproj/._LaunchScreen.storyboard
+13_QuestionBot/QuestionBot/QuestionBot/Base.lproj/._Main.storyboard
+14_ArraysAndLoops.playground/._Contents.swift
+14_ArraysAndLoops.playground/._Pages
+14_ArraysAndLoops.playground/._playground.xcworkspace
+14_ArraysAndLoops.playground/._Resources
+14_ArraysAndLoops.playground/Pages/._Adding Items.xcplaygroundpage
+14_ArraysAndLoops.playground/Pages/._Array Literals.xcplaygroundpage
+14_ArraysAndLoops.playground/Pages/._Count.xcplaygroundpage
+14_ArraysAndLoops.playground/Pages/._Exercise-Count.xcplaygroundpage
+14_ArraysAndLoops.playground/Pages/._Exercise-CountingVotes.xcplaygroundpage
+14_ArraysAndLoops.playground/Pages/._Exercise-Goals.xcplaygroundpage
+14_ArraysAndLoops.playground/Pages/._Exercise-Karaoke Host.xcplaygroundpage
+14_ArraysAndLoops.playground/Pages/._Exercise-Screening Messages.xcplaygroundpage
+14_ArraysAndLoops.playground/Pages/._Indices.xcplaygroundpage
+14_ArraysAndLoops.playground/Pages/._Lists.xcplaygroundpage
+14_ArraysAndLoops.playground/Pages/._Loops.xcplaygroundpage
+14_ArraysAndLoops.playground/Pages/._Mutable Arrays.xcplaygroundpage
+14_ArraysAndLoops.playground/Pages/._Processing Arrays.xcplaygroundpage
+14_ArraysAndLoops.playground/Pages/._Removing Items.xcplaygroundpage
+14_ArraysAndLoops.playground/Pages/._Replacing Items.xcplaygroundpage
+14_ArraysAndLoops.playground/Pages/._Types.xcplaygroundpage
+14_ArraysAndLoops.playground/Pages/._Wrapup.xcplaygroundpage
+14_ArraysAndLoops.playground/Pages/Array Literals.xcplaygroundpage/._Contents.swift
+14_ArraysAndLoops.playground/Pages/Count.xcplaygroundpage/._Contents.swift
+14_ArraysAndLoops.playground/Pages/Exercise-Goals.xcplaygroundpage/._Contents.swift
+14_ArraysAndLoops.playground/Pages/Exercise-Screening Messages.xcplaygroundpage/._Contents.swift
+14_ArraysAndLoops.playground/Pages/Exercise-Screening Messages.xcplaygroundpage/._Resources
+14_ArraysAndLoops.playground/Pages/Exercise-Screening Messages.xcplaygroundpage/._Sources
+14_ArraysAndLoops.playground/Pages/Exercise-Screening Messages.xcplaygroundpage/Resources/._Alice.txt
+14_ArraysAndLoops.playground/Pages/Exercise-Screening Messages.xcplaygroundpage/Sources/._AliceMessages.swift
+14_ArraysAndLoops.playground/Pages/Indices.xcplaygroundpage/._Contents.swift
+14_ArraysAndLoops.playground/Pages/Lists.xcplaygroundpage/._Contents.swift
+14_ArraysAndLoops.playground/Pages/Mutable Arrays.xcplaygroundpage/._Contents.swift
+14_ArraysAndLoops.playground/Pages/Processing Arrays.xcplaygroundpage/._Contents.swift
+14_ArraysAndLoops.playground/Pages/Types.xcplaygroundpage/._Contents.swift
+14_ArraysAndLoops.playground/Pages/Wrapup.xcplaygroundpage/._Contents.swift
+14_ArraysAndLoops.playground/playground.xcworkspace/._contents.xcworkspacedata
+14_ArraysAndLoops.playground/playground.xcworkspace/._xcuserdata
+14_ArraysAndLoops.playground/playground.xcworkspace/xcuserdata/._czeluff.xcuserdatad
+14_ArraysAndLoops.playground/playground.xcworkspace/xcuserdata/czeluff.xcuserdatad/._UserInterfaceState.xcuserstate
+14_ArraysAndLoops.playground/Resources/._loop.png
+14_ArraysAndLoops.playground/Resources/._LoopTerribleGraphic.png
+15_Structures.playground/._contents.xcplayground
+15_Structures.playground/._Pages
+15_Structures.playground/._playground.xcworkspace
+15_Structures.playground/Pages/._Calculated Properties.xcplaygroundpage
+15_Structures.playground/Pages/._Custom Types.xcplaygroundpage
+15_Structures.playground/Pages/._Exercise-Your Own Structure .xcplaygroundpage
+15_Structures.playground/Pages/._Functions.xcplaygroundpage
+15_Structures.playground/Pages/._Instance Methods.xcplaygroundpage
+15_Structures.playground/Pages/._Introduction.xcplaygroundpage
+15_Structures.playground/Pages/._Mutablility.xcplaygroundpage
+15_Structures.playground/Pages/._Struct Properties.xcplaygroundpage
+15_Structures.playground/Pages/._Wrapup.xcplaygroundpage
+15_Structures.playground/Pages/Calculated Properties.xcplaygroundpage/._Contents.swift
+15_Structures.playground/Pages/Custom Types.xcplaygroundpage/._Contents.swift
+15_Structures.playground/Pages/Exercise-Your Own Structure .xcplaygroundpage/._Contents.swift
+15_Structures.playground/Pages/Functions.xcplaygroundpage/._Contents.swift
+15_Structures.playground/Pages/Instance Methods.xcplaygroundpage/._Contents.swift
+15_Structures.playground/Pages/Introduction.xcplaygroundpage/._Contents.swift
+15_Structures.playground/Pages/Mutablility.xcplaygroundpage/._Contents.swift
+15_Structures.playground/Pages/Struct Properties.xcplaygroundpage/._Contents.swift
+15_Structures.playground/Pages/Wrapup.xcplaygroundpage/._Contents.swift
+15_Structures.playground/playground.xcworkspace/._contents.xcworkspacedata
+15_Structures.playground/playground.xcworkspace/._xcuserdata
+15_Structures.playground/playground.xcworkspace/xcuserdata/._czeluff.xcuserdatad
+15_Structures.playground/playground.xcworkspace/xcuserdata/czeluff.xcuserdatad/._UserInterfaceState.xcuserstate
+16_QuestionBot2/ChatBot/._ChatBot.xcodeproj
+16_QuestionBot2/ChatBot/ChatBot.xcodeproj/._project.pbxproj
+16_QuestionBot2/ChatBot/ChatBot.xcodeproj/._project.xcworkspace
+16_QuestionBot2/ChatBot/ChatBot.xcodeproj/._xcuserdata
+16_QuestionBot2/ChatBot/ChatBot.xcodeproj/project.xcworkspace/._contents.xcworkspacedata
+16_QuestionBot2/ChatBot/ChatBot.xcodeproj/project.xcworkspace/._xcuserdata
+16_QuestionBot2/ChatBot/ChatBot.xcodeproj/project.xcworkspace/xcuserdata/._czeluff.xcuserdatad
+16_QuestionBot2/ChatBot/ChatBot.xcodeproj/project.xcworkspace/xcuserdata/czeluff.xcuserdatad/._UserInterfaceState.xcuserstate
+16_QuestionBot2/ChatBot/ChatBot.xcodeproj/xcuserdata/._czeluff.xcuserdatad
+16_QuestionBot2/ChatBot/ChatBot.xcodeproj/xcuserdata/czeluff.xcuserdatad/._xcschemes
+16_QuestionBot2/ChatBot/ChatBot.xcodeproj/xcuserdata/czeluff.xcuserdatad/xcschemes/._ChatBot.xcscheme
+16_QuestionBot2/ChatBot/ChatBot.xcodeproj/xcuserdata/czeluff.xcuserdatad/xcschemes/._xcschememanagement.plist
+16_QuestionBot2/ChatBot/ChatBot/._AppDelegate.swift
+16_QuestionBot2/ChatBot/ChatBot/._AskCell.swift
+16_QuestionBot2/ChatBot/ChatBot/._ConversationCell.swift
+16_QuestionBot2/ChatBot/ChatBot/._ConversationDataSource.swift
+16_QuestionBot2/ChatBot/ChatBot/._ConversationViewController.swift
+16_QuestionBot2/ChatBot/ChatBot/._Info.plist
+16_QuestionBot2/ChatBot/ChatBot/._Message.swift
+16_QuestionBot2/ChatBot/ChatBot/._QuestionAnswerer.swift
+16_QuestionBot2/ChatBot/ChatBot/._ThinkingCell.swift
+16_QuestionBot2/ChatBot/ChatBot/Assets.xcassets/._Contents.json
+16_QuestionBot2/ChatBot/ChatBot/Assets.xcassets/AppIcon.appiconset/._Contents.json
+16_QuestionBot2/ChatBot/ChatBot/Assets.xcassets/thinking1.imageset/._Contents.json
+16_QuestionBot2/ChatBot/ChatBot/Assets.xcassets/thinking1.imageset/._thinking1@2x.png
+16_QuestionBot2/ChatBot/ChatBot/Assets.xcassets/thinking1.imageset/._thinking1@3x.png
+16_QuestionBot2/ChatBot/ChatBot/Assets.xcassets/thinking2.imageset/._Contents.json
+16_QuestionBot2/ChatBot/ChatBot/Assets.xcassets/thinking2.imageset/._thinking2@2x.png
+16_QuestionBot2/ChatBot/ChatBot/Assets.xcassets/thinking2.imageset/._thinking2@3x.png
+16_QuestionBot2/ChatBot/ChatBot/Assets.xcassets/thinking3.imageset/._Contents.json
+16_QuestionBot2/ChatBot/ChatBot/Assets.xcassets/thinking3.imageset/._thinking3@2x.png
+16_QuestionBot2/ChatBot/ChatBot/Assets.xcassets/thinking3.imageset/._thinking3@3x.png
+16_QuestionBot2/ChatBot/ChatBot/Base.lproj/._LaunchScreen.storyboard
+16_QuestionBot2/ChatBot/ChatBot/Base.lproj/._Main.storyboard
+17_ActionsAndOutlets/ColorMix/._ColorMix.xcodeproj
+17_ActionsAndOutlets/ColorMix/ColorMix.xcodeproj/._project.pbxproj
+17_ActionsAndOutlets/ColorMix/ColorMix.xcodeproj/._project.xcworkspace
+17_ActionsAndOutlets/ColorMix/ColorMix.xcodeproj/._xcuserdata
+17_ActionsAndOutlets/ColorMix/ColorMix.xcodeproj/project.xcworkspace/._contents.xcworkspacedata
+17_ActionsAndOutlets/ColorMix/ColorMix.xcodeproj/project.xcworkspace/._xcuserdata
+17_ActionsAndOutlets/ColorMix/ColorMix.xcodeproj/project.xcworkspace/xcuserdata/._czeluff.xcuserdatad
+17_ActionsAndOutlets/ColorMix/ColorMix.xcodeproj/project.xcworkspace/xcuserdata/czeluff.xcuserdatad/._UserInterfaceState.xcuserstate
+17_ActionsAndOutlets/ColorMix/ColorMix.xcodeproj/xcuserdata/._czeluff.xcuserdatad
+17_ActionsAndOutlets/ColorMix/ColorMix.xcodeproj/xcuserdata/czeluff.xcuserdatad/._xcschemes
+17_ActionsAndOutlets/ColorMix/ColorMix.xcodeproj/xcuserdata/czeluff.xcuserdatad/xcschemes/._ColorMix.xcscheme
+17_ActionsAndOutlets/ColorMix/ColorMix.xcodeproj/xcuserdata/czeluff.xcuserdatad/xcschemes/._xcschememanagement.plist
+17_ActionsAndOutlets/ColorMix/ColorMix/._AppDelegate.swift
+17_ActionsAndOutlets/ColorMix/ColorMix/._Info.plist
+17_ActionsAndOutlets/ColorMix/ColorMix/._ViewController.swift
+17_ActionsAndOutlets/ColorMix/ColorMix/Assets.xcassets/AppIcon.appiconset/._Contents.json
+17_ActionsAndOutlets/ColorMix/ColorMix/Base.lproj/._LaunchScreen.storyboard
+17_ActionsAndOutlets/ColorMix/ColorMix/Base.lproj/._Main.storyboard
+18_AdaptiveUserInterfaces/Resources/AnimalSounds/._meow.m4a
+18_AdaptiveUserInterfaces/Resources/AnimalSounds/._moo.m4a
+18_AdaptiveUserInterfaces/Resources/AnimalSounds/._SimpleSound.swift
+18_AdaptiveUserInterfaces/Resources/AnimalSounds/._woof.m4a
+18_AdaptiveUserInterfaces/Resources/ElementQuiz/._Carbon.png
+18_AdaptiveUserInterfaces/Resources/ElementQuiz/._Carbon@2x.png
+18_AdaptiveUserInterfaces/Resources/ElementQuiz/._Carbon@3x.png
+18_AdaptiveUserInterfaces/Resources/ElementQuiz/._Chlorine.png
+18_AdaptiveUserInterfaces/Resources/ElementQuiz/._Chlorine@2x.png
+18_AdaptiveUserInterfaces/Resources/ElementQuiz/._Chlorine@3x.png
+18_AdaptiveUserInterfaces/Resources/ElementQuiz/._Gold.png
+18_AdaptiveUserInterfaces/Resources/ElementQuiz/._Gold@2x.png
+18_AdaptiveUserInterfaces/Resources/ElementQuiz/._Gold@3x.png
+18_AdaptiveUserInterfaces/Resources/ElementQuiz/._Sodium.png
+18_AdaptiveUserInterfaces/Resources/ElementQuiz/._Sodium@2x.png
+18_AdaptiveUserInterfaces/Resources/ElementQuiz/._Sodium@3x.png
+19_EnumsAndSwitch.playground/._contents.xcplayground
+19_EnumsAndSwitch.playground/._Pages
+19_EnumsAndSwitch.playground/._playground.xcworkspace
+19_EnumsAndSwitch.playground/Pages/._Back to the Cafeteria.xcplaygroundpage
+19_EnumsAndSwitch.playground/Pages/._Comparing Enums.xcplaygroundpage
+19_EnumsAndSwitch.playground/Pages/._Enum Methods and Properties.xcplaygroundpage
+19_EnumsAndSwitch.playground/Pages/._Enumerations.xcplaygroundpage
+19_EnumsAndSwitch.playground/Pages/._Enums and Functions.xcplaygroundpage
+19_EnumsAndSwitch.playground/Pages/._Enums and Type Inference.xcplaygroundpage
+19_EnumsAndSwitch.playground/Pages/._Exercise-Counting Chickens.xcplaygroundpage
+19_EnumsAndSwitch.playground/Pages/._Exercise-Counting Votes.xcplaygroundpage
+19_EnumsAndSwitch.playground/Pages/._Exercise-Defining Enums.xcplaygroundpage
+19_EnumsAndSwitch.playground/Pages/._Exercise-Replacing Bools.xcplaygroundpage
+19_EnumsAndSwitch.playground/Pages/._Exercise-Switch.xcplaygroundpage
+19_EnumsAndSwitch.playground/Pages/._Exhausting The Possibilities.xcplaygroundpage
+19_EnumsAndSwitch.playground/Pages/._Introduction.xcplaygroundpage
+19_EnumsAndSwitch.playground/Pages/._Making Decisions, Revisited.xcplaygroundpage
+19_EnumsAndSwitch.playground/Pages/._More Than Enums.xcplaygroundpage
+19_EnumsAndSwitch.playground/Pages/._Multiple Cases.xcplaygroundpage
+19_EnumsAndSwitch.playground/Pages/._Switch.xcplaygroundpage
+19_EnumsAndSwitch.playground/Pages/._The Default Case.xcplaygroundpage
+19_EnumsAndSwitch.playground/Pages/._The Problem With If.xcplaygroundpage
+19_EnumsAndSwitch.playground/Pages/._When To Use Enums.xcplaygroundpage
+19_EnumsAndSwitch.playground/Pages/._Wrapup.xcplaygroundpage
+19_EnumsAndSwitch.playground/Pages/Back to the Cafeteria.xcplaygroundpage/._Contents.swift
+19_EnumsAndSwitch.playground/Pages/Comparing Enums.xcplaygroundpage/._Contents.swift
+19_EnumsAndSwitch.playground/Pages/Enum Methods and Properties.xcplaygroundpage/._Contents.swift
+19_EnumsAndSwitch.playground/Pages/Enumerations.xcplaygroundpage/._Contents.swift
+19_EnumsAndSwitch.playground/Pages/Enums and Functions.xcplaygroundpage/._Contents.swift
+19_EnumsAndSwitch.playground/Pages/Enums and Type Inference.xcplaygroundpage/._Contents.swift
+19_EnumsAndSwitch.playground/Pages/Exercise-Counting Chickens.xcplaygroundpage/._Contents.swift
+19_EnumsAndSwitch.playground/Pages/Exercise-Counting Chickens.xcplaygroundpage/._Sources
+19_EnumsAndSwitch.playground/Pages/Exercise-Counting Chickens.xcplaygroundpage/Sources/._Chickens.swift
+19_EnumsAndSwitch.playground/Pages/Exercise-Counting Votes.xcplaygroundpage/._Contents.swift
+19_EnumsAndSwitch.playground/Pages/Exercise-Defining Enums.xcplaygroundpage/._Contents.swift
+19_EnumsAndSwitch.playground/Pages/Exercise-Replacing Bools.xcplaygroundpage/._Contents.swift
+19_EnumsAndSwitch.playground/Pages/Exercise-Switch.xcplaygroundpage/._Contents.swift
+19_EnumsAndSwitch.playground/Pages/Exhausting The Possibilities.xcplaygroundpage/._Contents.swift
+19_EnumsAndSwitch.playground/Pages/Introduction.xcplaygroundpage/._Contents.swift
+19_EnumsAndSwitch.playground/Pages/Making Decisions, Revisited.xcplaygroundpage/._Contents.swift
+19_EnumsAndSwitch.playground/Pages/More Than Enums.xcplaygroundpage/._Contents.swift
+19_EnumsAndSwitch.playground/Pages/Multiple Cases.xcplaygroundpage/._Contents.swift
+19_EnumsAndSwitch.playground/Pages/Switch.xcplaygroundpage/._Contents.swift
+19_EnumsAndSwitch.playground/Pages/The Default Case.xcplaygroundpage/._Contents.swift
+19_EnumsAndSwitch.playground/Pages/The Problem With If.xcplaygroundpage/._Contents.swift
+19_EnumsAndSwitch.playground/Pages/The Problem With If.xcplaygroundpage/._Resources
+19_EnumsAndSwitch.playground/Pages/The Problem With If.xcplaygroundpage/Resources/._IfNoise.gif
+19_EnumsAndSwitch.playground/Pages/When To Use Enums.xcplaygroundpage/._Contents.swift
+19_EnumsAndSwitch.playground/Pages/Wrapup.xcplaygroundpage/._Contents.swift
+19_EnumsAndSwitch.playground/playground.xcworkspace/._contents.xcworkspacedata
+19_EnumsAndSwitch.playground/playground.xcworkspace/._xcuserdata
+19_EnumsAndSwitch.playground/playground.xcworkspace/xcuserdata/._czeluff.xcuserdatad
+19_EnumsAndSwitch.playground/playground.xcworkspace/xcuserdata/czeluff.xcuserdatad/._UserInterfaceState.xcuserstate
